@@ -1,12 +1,12 @@
 {
   "APIs": {
-	  "catalog": {
-	    "host": "lightblue-catalog-richarddouglas.mybluemix.net",
-	    "base_path": "/micro"
-	  },
-	  "customer": {
-	    "host": "lightblue-customer-richarddouglas.mybluemix.net",
-	    "base_path": "/micro"
-	  }
+  "catalog": {
+    "host": "lightblue-catalog-richarddouglas.mybluemix.net",
+    "base_path": "/micro"
+  },
+  "customer": {
+    "host": "lightblue-customer-richarddouglas.mybluemix.net",
+    "base_path": "/micro"
+  }
   }
 }
