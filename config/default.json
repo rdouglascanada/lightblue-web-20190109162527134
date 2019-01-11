@@ -1,8 +1,12 @@
 {
-  "API-Server": {
-    "protocol": "http",
-    "host": "184.172.233.10:30120"
-  },
   "APIs": {
+	  "catalog": {
+	    "host": "lightblue-catalog-richarddouglas.mybluemix.net",
+	    "base_path": "/micro"
+	  },
+	  "customer": {
+	    "host": "lightblue-customer-richarddouglas.mybluemix.net",
+	    "base_path": "/micro"
+	  }
   }
 }
